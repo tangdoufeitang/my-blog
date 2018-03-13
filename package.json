@@ -1,0 +1,8 @@
+{
+  "name": "koa-blog",
+  "version": "1.0.0",
+  "description": "koa grpahql blog mongodb react",
+  "main": "index.js",
+  "author": "tangdoufeitang",
+  "license": "MIT"
+}
